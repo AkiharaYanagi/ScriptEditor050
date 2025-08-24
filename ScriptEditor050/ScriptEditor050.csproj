@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="00_ScriptEditorUtility_050">
+      <HintPath>..\..\ScriptEditorUtility_050\Dll\Release\net8.0-windows10.0.26100.0\00_ScriptEditorUtility_050.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
