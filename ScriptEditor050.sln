@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptEditor050", "ScriptEditor050\ScriptEditor050.csproj", "{FF3A2446-9E90-4133-BDDC-465439E03A6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptEditor", "ScriptEditor\ScriptEditor.csproj", "{77957581-8EB6-46BF-AA57-9E6687809714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF3A2446-9E90-4133-BDDC-465439E03A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF3A2446-9E90-4133-BDDC-465439E03A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF3A2446-9E90-4133-BDDC-465439E03A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF3A2446-9E90-4133-BDDC-465439E03A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77957581-8EB6-46BF-AA57-9E6687809714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77957581-8EB6-46BF-AA57-9E6687809714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77957581-8EB6-46BF-AA57-9E6687809714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77957581-8EB6-46BF-AA57-9E6687809714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
