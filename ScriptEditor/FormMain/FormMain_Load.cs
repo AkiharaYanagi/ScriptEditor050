@@ -28,8 +28,8 @@ namespace ScriptEditor
 		//各タブの初期化
 		private void LoadTab ()
 		{
-			TabCommand_Load ();
 #if false
+			TabCommand_Load ();
 			TabAction_Load ();
 			TabScript_A_Load ();
 			TabEffect_Load ();
